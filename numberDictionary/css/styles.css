@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=The+Girl+Next+Door);
+
+body {
+  background: url(../img/notebook.png);
+  font-family: 'courier'
+}
+
+h1 {
+  font-family: 'courier'
+}
+.answer {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+body {
+  color: #0A0A0F;
+  font-family: 'courier'
+}
+button {
+  display: block;
+  margin-top: 20px;
+}
+
+.interface {
+  background-color: #B1AF9C;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.inside {
+  margin: 20px;
+  padding: 20px;
+}
+
+.hiding {
+  color: #B1AF9C;
+}
+
+.showing {
+  color: #0A0A0F;
+}
